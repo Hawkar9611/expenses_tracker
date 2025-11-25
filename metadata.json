@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Expense Tracker",
+  "description": "A smart expense tracking application powered by Gemini AI for receipt parsing and financial insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
